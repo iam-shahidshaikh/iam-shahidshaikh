@@ -143,7 +143,7 @@ I'm interested in connecting with DevOps engineers, SRE professionals, cloud eng
 
 - 📧 Email: [iamshahidshaikh42@gmail.com](mailto:iamshahidshaikh42@gmail.com)
 - 💻 GitHub: [@iam-shahidshaikh](https://github.com/iam-shahidshaikh)
-- 💼 LinkedIn: [Connect with me](https://www.linkedin.com/)
+- 💼 LinkedIn: [Connect with me](www.linkedin.com/in/iamshahidshaikh)
 
 ---
 
